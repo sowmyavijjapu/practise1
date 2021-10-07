@@ -1,11 +1,5 @@
-<<<<<<< HEAD
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-=======
 class HelloWorld { #dev1
     public static void main(String[] args) {
         System.out.println("Hello, World!");   #dev1 
->>>>>>> 2c4e16b6efe999c4296a9d6694077aad171ddb89
     }
 }
